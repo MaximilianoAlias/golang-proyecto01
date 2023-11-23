@@ -9,7 +9,6 @@ import (
 )
 
 func main() {
-	fmt.Println("hola mundo")
 
 	app := &cli.App{
 		Name:  "Healtcheker",
