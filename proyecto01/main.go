@@ -1,6 +1,7 @@
 package main
 
 //importando "fmt"
+//creando comentario de prueba2
 import (
 	"fmt"
 )
